@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Monique/Dropbox/Uni/159.234 Object Orientated Programing/Assignment/Assignment2/A2_Working/main.cpp
+iostream
+-
+fstream
+-
+iomanip
+-
+
